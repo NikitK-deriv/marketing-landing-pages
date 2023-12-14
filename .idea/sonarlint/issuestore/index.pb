@@ -12,3 +12,5 @@ D
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 J
 public/homepage/deriv.html,a/b/ab0a346dadc869b02b6e4b6abef451dd9c8db786
+A
+public/deriv.html,1/7/17f2ec7c3c81fc21d74c776e56a9c8077a6ebca3

@@ -12,3 +12,5 @@ Q
 !public/scripts/growthbook-init.js,5/e/5e057291181f6cde1a7dc83726f2aa14d806d2ee
 J
 public/homepage/deriv.html,a/b/ab0a346dadc869b02b6e4b6abef451dd9c8db786
+A
+public/deriv.html,1/7/17f2ec7c3c81fc21d74c776e56a9c8077a6ebca3

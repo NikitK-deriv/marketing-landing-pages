@@ -2,8 +2,8 @@
 const getDomain = () => {
   const domain = location.hostname;
 
-  if (domain.includes("deriv.com")) {
-    return "deriv.com";
+  if (domain.includes("static.com")) {
+    return "static.com";
   }
 
   return domain.includes("binary.sx") ? "binary.sx" : domain;
@@ -78,7 +78,7 @@ const shouldOverwrite = (new_utm_data, current_utm_data) => {
 
 (function initMarketingCookies() {
   const searchParams = new URLSearchParams(window.location.search);
-  const brand_name = "deriv";
+  const brand_name = "static";
   const app_id = 11780;
 
   /* start handling UTMs */
