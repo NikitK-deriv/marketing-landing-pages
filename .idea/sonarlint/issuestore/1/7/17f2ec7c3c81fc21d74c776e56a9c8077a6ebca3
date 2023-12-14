@@ -1,4 +1,9 @@
 
-Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(­éŸşÿÿÿÿ
-JWeb:AvoidCommentedOutCodeCheckÛ"Remove this commented out code.(©¯¥
-OWeb:AvoidCommentedOutCodeChecká"Remove this commented out code.(É¤‘Ïüÿÿÿÿ
+TWeb:TableWithoutCaptionCheck" Add a description to this table.(Ç¯Ó‚ûÿÿÿÿ8ŒÿŞÀÆ1
+TWeb:ImgWithoutAltCheck¯"%Add an "alt" attribute to this image.(ªš¨†ÿÿÿÿÿ8ÿŞÀÆ1
+TWeb:ImgWithoutAltCheck¯"%Add an "alt" attribute to this image.(ªš¨†ÿÿÿÿÿ8’ÿŞÀÆ1
+[Web:FrameWithoutTitleCheckÀ"-Add a "title" attribute to this <iframe> tag.(€Ëß8“ÿŞÀÆ1
+[Web:FrameWithoutTitleCheckÀ"-Add a "title" attribute to this <iframe> tag.(€Ëß8•ÿŞÀÆ1
+`Web:FrameWithoutTitleCheckÁ"-Add a "title" attribute to this <iframe> tag.(˜Ô¬Îıÿÿÿÿ8–ÿŞÀÆ1
+OWeb:ImgWithoutAltCheckÂ"%Add an "alt" attribute to this image.(§¦Éü8˜ÿŞÀÆ1
+OWeb:ImgWithoutAltCheckÄ"%Add an "alt" attribute to this image.(§¦Éü8™ÿŞÀÆ1

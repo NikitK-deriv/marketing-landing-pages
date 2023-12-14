@@ -14,3 +14,5 @@ J
 public/homepage/deriv.html,a/b/ab0a346dadc869b02b6e4b6abef451dd9c8db786
 A
 public/deriv.html,1/7/17f2ec7c3c81fc21d74c776e56a9c8077a6ebca3
+B
+public/deriv.mhtml,d/c/dc3d243d5adb2d32deb1e23308e9a8af61e90e0b
